@@ -1,0 +1,36 @@
+#head{
+    background-color: #45517D;
+    color: white;
+    font-size: 120%;
+    text-align: right;
+    height: 60px;
+    float: left;
+    width: 100%;
+}
+#lewy{
+    background-color: #61B2EC;
+    width: 40%;
+    float: left;
+    height: 500px;
+}
+#prawy{
+    background-color: #8EC9F2;
+    width: 60%;
+    float: left;
+    height: 500px;
+}
+#foot{
+    background-color: #45517D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+a:link{
+    color: orange;
+}
+a:visited{
+    color: green;
+}
+table{
+    width: 100%;
+}
